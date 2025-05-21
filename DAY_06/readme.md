@@ -5,20 +5,27 @@
 |['binarysearch.m'](./Codes/binarysearch.m)|![03.png](./Outputs/03.png)|
 
 
-// binarysearch
+// 🔍 **Binary Search**
 
-Target found at index: 6
+✅ Target found at index: `6`  
+⏱️ Elapsed Time: `0.001245 seconds`
 
-Elapsed Time for binary search:0.001245seconds
+// 🔎 **Linear Search**
 
-// linearsearch
+✅ The target element is found at index: `6`  
+⏱️ Elapsed Time: `0.000507 seconds`
 
-The target element is found at index:  6
+---
 
-Elapsed Time for linear search:0.000507seconds
+## ⚖️ **Comparison Result**
 
-According to the result,,linear search is faster than binary search
+📌 **According to the result, linear search is faster than binary search.**
 
-*For small datasets, linear search might surprisingly be faster, even though it has a worse theoretical complexity.
+### 📈 Performance Notes:
 
-*For large or frequently searched sorted data, binary search is the better long-term choice due to its logarithmic efficiency.
+- ⚠️ *For small datasets*, **linear search** might surprisingly be faster, even though it has a worse theoretical complexity **(O(n))**.
+- 🚀 *For large or frequently searched sorted data*, **binary search** is the better long-term choice due to its logarithmic efficiency **(O(log n))**.
+
+---
+
+🧠 **Tip:** Always choose your algorithm based on the **dataset size**, whether it's **sorted**, and **how frequently** you'll perform the search.
