@@ -1,6 +1,4 @@
-| Codes | Outputs |
-|-------|--------|
-|['activity.m'](./Codes/activity.m)|![01.png](./Outputs/01.png)|
+##Target:500
 
 // 🔎 **Linear Search**
 
@@ -24,6 +22,38 @@
 - 🕒 **Execution Time:**
   - Binary Search: `0.000212s` ⚡
   - Linear Search: `0.000322s` 🐢
+ 
+  ![01](https://github.com/user-attachments/assets/16a83d97-f89e-4890-b32a-749fb157f803)
+
+  
+
+##Target:998
+
+// 🔎 **Linear Search**
+
+✅ The target element is found at index: `998`  
+⏱️ Elapsed Time: `0.000888 seconds`
+
+// 🔍 **Binary Search**
+
+✅ Target found at index: `998`  
+⏱️ Elapsed Time: `0.001726 seconds`
+
+---
+
+## ⚖️ **Comparison Result**
+
+📌 **In this case, linear search is faster than binary search**, despite the target being at the very end of the list.
+
+### 📈 Performance Insights:
+
+- 🏁 **Target Index:** `998`
+- 🕒 **Execution Time:**
+  - Linear Search: `0.000888s` ⚡
+  - Binary Search: `0.001726s` 🐢
+
+![02](https://github.com/user-attachments/assets/9edebff3-4f44-4a1e-ae18-cf687664ae5a)
+
 
 ### 📊 Conclusion:
 
@@ -32,6 +62,4 @@
 
 ---
 
-🧠 **Tip:**  
-Choose **binary search** for faster performance when working with **sorted** data and large collections.  
-Use **linear search** only for **unsorted** or very **small datasets**.
+
