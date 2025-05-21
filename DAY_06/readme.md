@@ -5,12 +5,13 @@
 |['binarysearch.m'](./Codes/binarysearch.m)|![03.png](./Outputs/03.png)|
 
 
->> binarysearch
+// binarysearch
 Target found at index: 6
 Elapsed Time for binary search:0.001245seconds
->> linearsearch
+// linearsearch
 The target element is found at index:  6
 Elapsed Time for linear search:0.000507seconds
+
 According to the result,,linear search is faster than binary search
 
 *For small datasets, linear search might surprisingly be faster, even though it has a worse theoretical complexity.
