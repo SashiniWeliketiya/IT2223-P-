@@ -1,4 +1,4 @@
-### 1.Target:500
+### 1.Target=500
 
 // 🔎 **Linear Search**
 
@@ -27,7 +27,7 @@
 
   
 
-### 2.Target:998
+### 2.Target=998
 
 // 🔎 **Linear Search**
 
@@ -53,6 +53,34 @@
   - Binary Search: `0.001726s` 🐢
 
 ![02](https://github.com/user-attachments/assets/9edebff3-4f44-4a1e-ae18-cf687664ae5a)
+
+### 3.Target=10
+
+// 🔎 **Linear Search**
+
+✅ The target element is found at index: `10`  
+⏱️ Elapsed Time: `0.001038 seconds`
+
+// 🔍 **Binary Search**
+
+✅ Target found at index: `10`  
+⏱️ Elapsed Time: `0.001731 seconds`
+
+---
+
+## ⚖️ **Comparison Result**
+
+📌 **In this case, linear search is faster than binary search**, even though the target was located early in the list.
+
+### 📈 Performance Insights:
+
+- 🔢 **Target Index:** `10`
+- 🕒 **Execution Time:**
+  - Linear Search: `0.001
+ 
+    
+![03](https://github.com/user-attachments/assets/960d37d0-d814-46b0-93ac-a472e2960cf2)
+
 
 
 ### 📊 Conclusion:
