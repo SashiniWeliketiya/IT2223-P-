@@ -96,9 +96,13 @@
 ### ACTIVITY-02
 
 Step 1: Initialize
+
 Step 2: Loop Through Each Element (Outer Loop)
+
 Step 3: Find the Minimum in the Unsorted Part (Inner Loop)
+
 Step 4: Swap the Elements
+
 Step 5: Display the Sorted Array
 
 
