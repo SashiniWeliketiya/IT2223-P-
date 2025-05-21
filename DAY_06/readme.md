@@ -7,9 +7,12 @@
 
 // binarysearch
 Target found at index: 6
+
 Elapsed Time for binary search:0.001245seconds
+
 // linearsearch
 The target element is found at index:  6
+
 Elapsed Time for linear search:0.000507seconds
 
 According to the result,,linear search is faster than binary search
