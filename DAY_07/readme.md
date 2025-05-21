@@ -1,4 +1,4 @@
-##Target:500
+### 1.Target:500
 
 // 🔎 **Linear Search**
 
@@ -27,7 +27,7 @@
 
   
 
-##Target:998
+### 2.Target:998
 
 // 🔎 **Linear Search**
 
