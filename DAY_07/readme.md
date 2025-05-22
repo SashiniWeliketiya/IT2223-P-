@@ -49,7 +49,7 @@
 
 ### 📈 Performance Insights:
 
-- 🏁 **Target Index:** `998`
+- 🔢 **Target Index:** `998`
 - 🕒 **Execution Time:**
   - Linear Search: `0.000888s` ⚡
   - Binary Search: `0.001726s` 🐢
