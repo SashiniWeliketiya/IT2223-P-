@@ -30,7 +30,7 @@ Continues until the entire list is sorted.
 ### 2.Insertionsort
 
 
-🔍 What is Insertion Sort?
+💡 How Insertion Sort Works:
 
 
 🧠 Insertion Sort works just like sorting playing cards in your hands:
