@@ -29,4 +29,20 @@ Continues until the entire list is sorted.
 
 ### 2.Insertionsort
 
+
+🔍 What is Insertion Sort?
+
+
+🧠 Insertion Sort works just like sorting playing cards in your hands:
+
+1.Start with the second card 🎴.
+
+2.Compare it with the cards before it.
+
+3.Insert it in the correct place.
+
+4.Repeat for all cards until the hand is sorted ♠️♥️♣️♦️.
+
+
+
 ![02](https://github.com/user-attachments/assets/f6b4e6a2-e505-45a3-ba89-c1dc6da13b12)
