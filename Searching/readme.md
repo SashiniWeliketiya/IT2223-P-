@@ -29,4 +29,28 @@
 ---
 
 
+### ACTIVITY
+
+### 1.Target=500
+
+// 🔎 **Linear Search**
+
+✅ The target element is found at index: `500`  
+⏱️ Elapsed Time: `0.000322 seconds`
+
+// 🔍 **Binary Search**
+
+✅ Target found at index: `500`  
+⏱️ Elapsed Time: `0.000212 seconds`
+
+---
+
+## ⚖️ **Comparison Result**
+
+📌 **In this case, binary search is faster than linear search.**
+
+### 📈 Performance Insights:
+
+
+
 
