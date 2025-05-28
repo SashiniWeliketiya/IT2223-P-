@@ -39,7 +39,7 @@ Pass 2: Next largest (64) moves to second last.
 Continues until the entire list is sorted.
 
 
-![01](https://github.com/user-attachments/assets/57ca2792-9a34-4d16-9716-611c1e9f295f)
+![BubbleSort](https://github.com/user-attachments/assets/45e82fbd-751b-435f-a647-f7146d7684f9)
 
 
 
@@ -61,4 +61,4 @@ Continues until the entire list is sorted.
 
 
 
-![02](https://github.com/user-attachments/assets/f6b4e6a2-e505-45a3-ba89-c1dc6da13b12)
+![InsertionSort](https://github.com/user-attachments/assets/fc452d5e-8f47-4e61-95e1-3bfb76c5b9a1)
