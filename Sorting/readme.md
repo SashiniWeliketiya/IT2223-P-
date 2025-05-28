@@ -1,4 +1,4 @@
-### SELECTION SORT
+### Selection Sort
 
 Step 1: Initialize
 
