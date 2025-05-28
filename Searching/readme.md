@@ -28,6 +28,8 @@
 ---
 
 
+
+
 ### ACTIVITY
 
 ### 1.Target=500
@@ -49,12 +51,14 @@
 📌 **In this case, binary search is faster than linear search.**
 
 ### 📈 Performance Insights:
+
 - 🔢 **Target Index:** Both found the element at index `500`.
 - 🕒 **Execution Time:**
   - Binary Search: `0.000212s` ⚡
   - Linear Search: `0.000322s` 🐢
  
-  ![01](https://github.com/user-attachments/assets/16a83d97-f89e-4890-b32a-749fb157f803)
+  ![activity01](https://github.com/user-attachments/assets/d47f7852-0d89-40fd-93c6-6437c947b537)
+
 
   
 
@@ -83,7 +87,8 @@
   - Linear Search: `0.000888s` ⚡
   - Binary Search: `0.001726s` 🐢
 
-![02](https://github.com/user-attachments/assets/9edebff3-4f44-4a1e-ae18-cf687664ae5a)
+![activity02](https://github.com/user-attachments/assets/87e1790e-9de2-43a5-acba-2cac4bee2542)
+
 
 ### 3.Target=10
 
@@ -110,7 +115,8 @@
   - Linear Search: `0.001
  
     
-![03](https://github.com/user-attachments/assets/960d37d0-d814-46b0-93ac-a472e2960cf2)
+![activity03](https://github.com/user-attachments/assets/39acfeb9-3a98-4c74-b375-131ef687b137)
+
 
 
 
@@ -120,6 +126,11 @@
 - ⚠️ **Linear search** checks each element one by one, making it slower as the index increases.
 
 ---
+
+
+
+
+
 
 
 
