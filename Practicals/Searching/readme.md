@@ -2,6 +2,7 @@
 |-------|--------|
 |['linearsearch.m'](./Codes/linearsearch.m)|![02.png](./Output/02.png)|
 |['binarysearch.m'](./Codes/binarysearch.m)|![03.png](./Output/03.png)|
+|['timecomplexity.m'](./Codes/timecomplexity.m)|![01.png](./Output/01.png)|
 
 
 // 🔍 **Binary Search**
