@@ -1,6 +1,6 @@
 | Codes | Output |
 |-------|--------|
-|['.m'](./Codes/.m)|![.png](./Output/.png)|
+|['adjacency.m'](./Codes/adjacency.m)|![adjacency.png](./Output/adjacency.png)|
 
 
 
