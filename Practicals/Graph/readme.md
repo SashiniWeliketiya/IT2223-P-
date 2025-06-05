@@ -1,5 +1,5 @@
 | Codes | Output |
 |-------|--------|
 |['adjacency.m'](./Codes/adjacency.m)|![adjacency.png](./Output/adjacency.png)|
-|['Exercise.m'](./Codes/Exercise.m)|![Exercise.png](./Output/Exercise.png)|
+|['Exercise.m'](./Codes/Exercise.m)|![Exercise.jpg](./Output/Exercise.jpg)|
 
