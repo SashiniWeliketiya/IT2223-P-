@@ -5,7 +5,7 @@ dist = [ 0 10 15 20;
 20 25 30 0];
 
 %Create and plot the graph
-G = graph(adjMatrix);
+G = graph(dist);
 plot(G);
 title('graph');
 
