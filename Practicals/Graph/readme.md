@@ -5,4 +5,5 @@
 |['exercise.m'](./Codes/exercise.m)|![exercise.png](./Output/exercise.png)|
 |['dfs.m'](./Codes/dfs.m)|![dfs.png](./Output/dfs.png)|
 |['bfs.m'](./Codes/bfs.m)|![bfs.png](./Output/bfs.png)|
+|['Travelling_salesman.m'](./Codes/Travelling_salesman.m)|![salesman.png](./Output/salesman.png)|
 
